@@ -1,0 +1,14 @@
+{
+  "name": "dust-intl-helpers-umd",
+  "version": "1.0.0",
+  "description": "UMD wrapper for dust-intl helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": "Robb Samuell",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "dust-intl": "^1.1.0"
+  }
+}
