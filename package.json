@@ -9,6 +9,7 @@
   "author": "Robb Samuell",
   "license": "Apache-2.0",
   "dependencies": {
-    "dust-intl": "^1.1.0"
+    "dust-intl": "^1.1.0",
+    "intl": "^1.0.1"
   }
 }
