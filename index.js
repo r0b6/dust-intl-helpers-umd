@@ -19,9 +19,7 @@
       global.Intl = require('intl');
   }
 
-	var dustIntl = require('dust-intl');
-
-	dustIntl.registerWith(dust);
-
-	return dust;
+  var dustIntl = require('dust-intl');
+  dustIntl.registerWith(dust);
+  return dust;
 }));
